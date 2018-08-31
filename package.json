@@ -1,0 +1,13 @@
+{
+  "scripts":{
+    "build":"webpack-dev-server --open --port 3000 --hot"
+  },
+  "dependencies": {
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.9.3"
+  }
+}
